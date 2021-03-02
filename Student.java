@@ -9,5 +9,9 @@ public class Student{
      public void sayHello(){
          System.out.println("大家好，我的学号是："+stuNo+",我的姓名是："+stuName);
      }
+     public int getStuNo(){
+         return this.stuNo;
+     }
+
 
 }
