@@ -7,8 +7,8 @@ public class Student{
       this.stuName = stuName;
      }
      public void sayHello(){
-        System.out.println("大家好，我是一名学生，我的学号是："+stuNo+",我的姓名是："+stuName);
-     }	
+        System.out.println("大家好，我是一名学生，我的学号是："+this.stuNo+",我的姓名是："+this.stuName);
+     }
      public int getStuNo(){
          return this.stuNo;
      }
