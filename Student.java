@@ -18,6 +18,9 @@ public class Student{
      public void setStuNo(int stuNo){
          this.stuNo = stuNo;
      }
+     public void setStuName(String stuName){
+         this.stuName = stuName;
+     }
 
 
 
