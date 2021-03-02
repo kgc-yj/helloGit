@@ -22,7 +22,7 @@ public class Student{
          this.stuName = stuName;
      }
      public void hello(){
-         this.sayHello();
+         sayHello();
      }
 
 
