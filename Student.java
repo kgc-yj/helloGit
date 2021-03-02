@@ -15,6 +15,10 @@ public class Student{
      public String getStuName(){
          return this.stuName;
      }
+     public void setStuNo(int stuNo){
+         this.stuNo = stuNo;
+     }
+
 
 
 
