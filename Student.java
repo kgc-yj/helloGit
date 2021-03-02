@@ -12,6 +12,10 @@ public class Student{
      public int getStuNo(){
          return this.stuNo;
      }
+     public String getStuName(){
+         return this.stuName;
+     }
+
 
 
 }
