@@ -1,4 +1,4 @@
 public class Teacher{
-    int teaNo;
-    String teaName;
+    private int teaNo;
+    private String teaName;
 }
