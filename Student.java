@@ -21,7 +21,9 @@ public class Student{
      public void setStuName(String stuName){
          this.stuName = stuName;
      }
-
+     public void hello(){
+         sayHello();
+     }
 
 
 
